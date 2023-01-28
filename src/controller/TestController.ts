@@ -57,8 +57,6 @@ function buildArrayOfSignedIntegers(hex_string: string){
     }
 
 
-    
-
     return signedIntegers
     
 }
