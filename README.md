@@ -1,5 +1,6 @@
 # LpTestAPI written in express with TypeORM
-# Entire project took around 3.5 hrs to complete
+
+Entire project took around 3.5 hrs to complete
 
 Steps to run this project:
 
